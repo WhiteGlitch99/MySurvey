@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body{
+    background-color:rgba(0, 0, 0, 0.993) ;
+    color: rgb(29, 154, 226);
+    font-family: 'Press Start 2P', cursive;
+    line-height: 20px;
+}
+
+h4{
+letter-spacing: 3px;
+}
+input{
+    background-color: rgb(0, 56, 139);
+}
+#Gif{
+    color: gold;
+    text-decoration:none;
+}
+#Gif:hover{
+    background-color: rgb(0, 219, 66);
+    color: rgb(0, 0, 0);
+}
+input:hover{
+    background-color: rgb(255, 0, 0);
+}
+
+fieldset{
+    line-height: 30px;
+    color: darkorange;
+    margin:15px 15px 15px 0;
+    border-color: crimson;
+    border-style: double dashed ;
+      
+}
+/* If you use 2 border styles on one line, then the border 
+will show both! Cool, right?  */
+legend{
+    text-align: center;
+    
+}
+h6{
+    font-size: 4px;
+}
+
+   
+
+    
+
+
+
+
+
